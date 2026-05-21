@@ -4,7 +4,7 @@ Modelagem do mapa político do Brasil como grafo não direcionado e aplicação 
 ---
 
 ## Apresentação
-🔗 **[Assista à apresentação do trabalho aqui](link-do-video)**
+🔗 **[Assista à apresentação do trabalho aqui](https://youtu.be/CDaxhMJSs1A)**
 
 ---
 
